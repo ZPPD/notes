@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://zppd.github.io/notes",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZPPD/notes.git"
+  },
+  "author": "ZPPD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZPPD/notes/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
